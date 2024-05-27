@@ -2,9 +2,8 @@
 
 # To Do List:
 
-<p>-Deside if i'm using borion as a base or if there is src from a better 1.20 client somewhere
-<p></p>-add a default lunchbox to the github 
--
+<p></p>-Deside if i'm using borion as a base or if there is src from a better 1.20 client somewhere
+<p></p>-add a default lunchbox to the github
 <p></p>-
 <p></p>-
 <p></p>-
