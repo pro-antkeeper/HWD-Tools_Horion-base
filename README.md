@@ -2,10 +2,33 @@
 
 # To Do List:
 
-<p>-Deside if i'm using GS, NGclinet(1.20.15) or kock.club as a base
-<p>-add a default lunchbox to the github
+<p>-Deside if i'm using borion as a base or if there is src from a better 1.20 client somewhere
+<p>-add a default lunchbox to the github 
+<p>-
+<p>-
+<p>-
+<p>-
+<p>-
+<p>-
+<p>-
+<p>-
+<p>
+<p>
 
+
+# Modules
+<p>-
+<p>-
+  
+## To remove
+<p>-
+<p>
+  
+## To add
+<p>-
+<p>
+
+    
 # Support
 For support, or whatever join the discord if you're not there already. (ping @pro_antkeeper)
 <p></p>https://discord.com/invite/kxEZZBfVBD
-
