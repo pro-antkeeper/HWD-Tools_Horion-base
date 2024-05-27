@@ -2,13 +2,16 @@
 
 # To Do List
 - Deside if i'm using borion as a base or if there is src from a better 1.20 client somewhere
-- add a default lunchbox to the github
--
--
--
--
--
--
+- Add a default lunchbox to the github
+- Tracer must be 360
+- Make the gui look less depressing (color options?)
+- Replace all "Borion" with the hwd version (Ik what I'm talking about)
+- Add most modules from kock.club, gs, nuke, and the first attempt
+- Add a save config button 🧠
+- Make sure the nametags DONT DO END CRYSTALS BRUH
+- Add a good armor display
+- Add a good inventory display
+- Color options for modules that need it
 <br>
 <br>
 
@@ -21,7 +24,7 @@
 -
   
 ### To add
--
+- 
 -
 
 <br>
