@@ -12,12 +12,24 @@
 - Add a good armor display (in right area + percentage)
 - Add a good inventory display
 - Color options for modules that need it
-- Add my pvpressource module but with that array list code that makes it fall (Ik what I'm talking about)
+- Add my pvpressource module
+  - rename
+  - echests times 8
+  - stacking like arraylist
 - Make sure arraylist does not crash
 - Find the exact version it's supposed to be on
 - Texture pack option??
 - change categories(highway, pvp, essential, etc...)
-- packet mine!!! (semi instant? :[)
+- packet mine!!! semi instant? :[
+- Playerlist
+- A module that tells you when a player enters render distance
+- Pingdisplay would be epic, idk how to do it tho
+- Does the anticrystal and fps display need fixing?
+- Something that can count the amount of blocks broken and placed in a session
+- Fix the inv cleaner
+- Add inventory replenish (obi into all empty slots)
+- Advertiser: (like spammer but advertises) Make it be able to detect when a player joins the server
+- Effect ToolTips (displays the time remaining on the effects the player has)
 <br>
 <br>
 
@@ -30,8 +42,17 @@
 -
   
 ### To add
+- ToggleSounds
+- CHONKY SCAFFOLD
+- SessionInfo
+- TNT Tunneler
+- Echest Farmer
+- Shulker tooltips
+- Auto log
+- Auto Gapple
+- Excavator
+- AutoHighway
 - 
--
 
 <br>
 <br>   
