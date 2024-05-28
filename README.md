@@ -16,6 +16,8 @@
 - Make sure arraylist does not crash
 - Find the exact version it's supposed to be on
 - Texture pack option??
+- change categories(highway, pvp, essential, etc...)
+- packet mine!!! (semi instant? :[)
 <br>
 <br>
 
