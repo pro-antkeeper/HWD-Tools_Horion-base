@@ -9,9 +9,13 @@
 - Add most modules from kock.club, gs, nuke, and the first attempt
 - Add a save config button 🧠
 - Make sure the nametags DONT DO END CRYSTALS BRUH
-- Add a good armor display
+- Add a good armor display (in right area + percentage)
 - Add a good inventory display
 - Color options for modules that need it
+- Add my pvpressource module but with that array list code that makes it fall (Ik what I'm talking about)
+- Make sure arraylist does not crash
+- Find the exact version it's supposed to be on
+- Texture pack option??
 <br>
 <br>
 
