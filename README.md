@@ -46,7 +46,7 @@
 - SessionInfo
 - TNT Tunneler
 - Echest Farmer
-- Shulker tooltips
+- tools tooltips/shulker preview
 - Auto log
 - Auto Gapple
 - Excavator
