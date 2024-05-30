@@ -4,7 +4,7 @@
 - Add a default lunchbox to the github
 - Tracer must be 360
 - Make the gui look less depressing (color options?) 
-- Replace all "Borion" with the hwd version (Ik what I'm talking about)
+- Replace all "horion" with the hwd version (Ik what I'm talking about)
 - Add most modules from kock.club, gs, nuke, and the first attempt
 - Add a save config button 🧠
 - Make sure the nametags DONT DO END CRYSTALS BRUH
@@ -15,11 +15,11 @@
   - rename
   - echests times 8
   - stacking like arraylist
-- Is the arraylist causing the crash? find out why it happens and try n fix...
+- Is the arraylist causing the crash? find out why it happens and try n fix... ❗
 - Find the exact version it's supposed to be on
 - Texture pack option??
 - change categories(highway, pvp, essential, etc...)
-- packet mine!!! semi instant? :[
+- packet mine!!! semi instant? 🥺
 - A module that tells you when a player enters render distance
 - Pingdisplay would be epic, idk how to do it tho
 - Does the anticrystal and fps display need fixing?
@@ -29,6 +29,8 @@
 - Advertiser: (like spammer but advertises) Make it be able to detect when a player joins the server
 - Effect ToolTips (displays the time remaining on the effects the player has)
 - Saturation options and opacity options to the ClientTheme module (implement it into Clickgui.cpp)
+- Minimap that can render in the clickgui
+- Slight blur on the clickgui (+colors)
 <br>
 <br>
 
@@ -37,8 +39,8 @@
 -
   
 ### To remove
--
--
+-TabGUI
+-Keystrokes
   
 ### To add
 - ToggleSounds
@@ -46,13 +48,33 @@
 - SessionInfo
 - TNT Tunneler
 - Echest Farmer
-- tools tooltips/shulker preview
+- tools tooltips/shulker preview!!! 😭
 - Auto log
 - Auto Gapple
 - Excavator
 - AutoHighway
 - Playerlist
-- 
+- Bedaura
+- Skel ESP
+- No Armor
+- FastXP
+- AutoFish
+- Freecam
+- Timer (gs)
+- SkinStealer (?) glide (?) spider (?)
+- Working antiVoid
+- ElytraFly?
+- AutoDisconnect
+- AutoMine UwU
+- Damage
+- Death Positions
+- Cool swing
+- BlockOutline (good one)
+- Minimap
+- NoHurtCame
+- Waypoints??
+- AutoGapple
+- Sign Eddit
 
 <br>
 <br>   
