@@ -31,6 +31,7 @@
 - Saturation options and opacity options to the ClientTheme module (implement it into Clickgui.cpp)
 - Minimap that can render in the clickgui
 - Slight blur on the clickgui (+colors)
+- Watermark must be the real logo (size option)
 <br>
 <br>
 
@@ -49,6 +50,7 @@
 - TNT Tunneler
 - Echest Farmer
 - tools tooltips/shulker preview!!! 😭
+- Afk Log
 - Auto log
 - Auto Gapple
 - Excavator
