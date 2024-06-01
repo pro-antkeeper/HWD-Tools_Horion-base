@@ -75,6 +75,8 @@
 - Waypoints??
 - AutoGapple
 - Sign Eddit
+- Yaw lock
+- APvPDisabler
 
 <br>
 <br>   
