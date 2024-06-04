@@ -37,6 +37,7 @@
 - Un-round the clickgui (shit's uggly asf)
 - Change default config (moyangles etc)
 - Creddits + Discord
+- How does the skin stealer work... add if it's not there
 <br>
 <br>
 
@@ -57,32 +58,23 @@
 - Echest Farmer
 - tools tooltips/shulker preview!!! 😭
 - Afk Log
-- Auto log
-- Auto Gapple
 - Excavator
 - AutoHighway
-- Playerlist
-- Bedaura
+- Playerlist (online+renderdistance) (horion, nuke)
+- Bedaura 
 - Skel ESP (not horion one)
-- No Armor
-- FastXP
-- AutoFish
-- Freecam
+- No Armor (texture pack thing)
+- FastXP/fast throw
+- Freecam (do it work tho?)
 - Timer (gs)
-- SkinStealer (?) glide (?) spider (?)
+- glide (is it there?)
 - Working antiVoid
 - ElytraFly?
-- AutoDisconnect
-- AutoMine UwU
-- Damage
 - Death Positions
 - Cool swing
 - BlockOutline (good one)
-- Minimap
 - NoHurtCame
-- Waypoints??
-- AutoGapple
-- Sign Eddit
+- Waypoints
 - Yaw lock
 - APvPDisabler
 
