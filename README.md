@@ -32,6 +32,12 @@
 - Minimap that can render in the clickgui
 - Slight blur on the clickgui (+colors)
 - Watermark must be the real logo (size option)
+- "We love miners" splash text
+- Finish the banners
+- Find where the assets file is defined n shit
+- Funny DvD logo options (bread, logo, pick, jam)
+- Un-round the clickgui
+- Change default config 
 <br>
 <br>
 
@@ -40,8 +46,9 @@
 -
   
 ### To remove
--TabGUI
--Keystrokes
+- javainv (crashes +dont work)
+- all that dumb asf hive stuff
+- other dumb modules
   
 ### To add
 - ToggleSounds
@@ -57,7 +64,7 @@
 - AutoHighway
 - Playerlist
 - Bedaura
-- Skel ESP
+- Skel ESP (not horion one)
 - No Armor
 - FastXP
 - AutoFish
