@@ -1,6 +1,6 @@
-=![Logo](https://cdn.discordapp.com/attachments/992610405719494768/1169306252145340476/HWD_Logo_Option_2.png?ex=659585cf&is=658310cf&hm=35ece143b62ee71d6500c5429412e8e4e0e0a7365df0c645219be14c485c2f15&)
+# HWD Tools <a href="https://discord.com/invite/kxEZZBfVBD"><img align="right" src="HWD Tools/Assets/Logo.png" height="80px" /></a>
 
-# To Do List
+## To Do List
 - Add a default lunchbox to the github
 - Tracer must be 360 (make sure it is, might be)
 - Make the gui look less yukky (color options) 
@@ -41,7 +41,7 @@
 <br>
 <br>
 
-# Modules
+## Modules
 -
 -
   
@@ -81,6 +81,6 @@
 <br>
 <br>   
 
-# Support
+## Support
 For support, or whatever join the discord if you're not there already. (ping @pro_antkeeper)
 <p></p>https://discord.com/invite/kxEZZBfVBD
