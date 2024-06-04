@@ -37,7 +37,8 @@
 - Find where the assets file is defined n shit
 - Funny DvD logo options (bread, logo, pick, jam)
 - Un-round the clickgui
-- Change default config 
+- Change default config
+- Creddits + Discord
 <br>
 <br>
 
