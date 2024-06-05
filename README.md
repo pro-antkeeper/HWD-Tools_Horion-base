@@ -32,12 +32,12 @@
 - Watermark must be the real logo (size option)
 - "We love miners" splash text
 - Finish the banners (gihub + mc)
-- Find where the assets file is defined n shit
 - Funny DvD logo options (bread, logo, pick, jam)
 - Un-round the clickgui (shit's uggly asf)
-- Change default config (moyangles etc)
-- Creddits + Discord
+- Change default configs (moyangles etc)
+- Is the creddits section in moyangles
 - How does the skin stealer work... add if it's not there
+- Why tf is the logo not rendering... too large?
 <br>
 <br>
 
@@ -46,7 +46,6 @@
 -
   
 ### To remove
-- javainv (crashes +dont work)
 - all that dumb asf hive stuff
 - other dumb modules
   
