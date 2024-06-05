@@ -38,6 +38,7 @@
 - Is the creddits section in moyangles
 - How does the skin stealer work... add if it's not there
 - Why tf is the logo not rendering... too large?
+- Highways are rendered on the minimap? :0
 <br>
 <br>
 
