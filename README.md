@@ -30,15 +30,16 @@
 - Minimap that can render in the clickgui (try zero's minimap)
 - Slight blur on the clickgui (+colors)
 - Watermark must be the real logo (size option)
-- "We love miners" splash text
+- "We love miners" splash text and other ones
 - Finish the banners (gihub + mc)
 - Funny DvD logo options (bread, logo, pick, jam)
-- Un-round the clickgui (shit's uggly asf)
+- Un-round the clickgui (shit's uggly asf) +give it a border
 - Change default configs (moyangles etc)
-- Is the creddits section in moyangles
+- Make creddits section in moyangles (+clean it up) creddit clients use?
 - How does the skin stealer work... add if it's not there
-- Why tf is the logo not rendering... too large?
+- make sure new checkbox will render
 - Highways are rendered on the minimap? :0
+- Add the hwd spammer and client chat
 <br>
 <br>
 
