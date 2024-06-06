@@ -1,6 +1,7 @@
 # HWD Tools <a href="https://discord.com/invite/kxEZZBfVBD"><img align="right" src="HWD Tools/Assets/Logo.png" height="80px" /></a>
 
 ## To Do List
+- Fix the git hub images (I hate github)
 - Add a default lunchbox to the github
 - Tracer must be 360 (make sure it is, might be)
 - Make the gui look less yukky (color options) 
@@ -19,7 +20,7 @@
   - Other type of bones esp
   - Damage colour
   - HWD cape (+elytra?)
-  - Splash text "we love miners" +other ones
+  - Splash text (+loading tips?)
   - Basalt pannorama
 - change categories(highway, pvp, essential, stash hunting, etc...)
 - packet mine!!! semi instant? 🥺
