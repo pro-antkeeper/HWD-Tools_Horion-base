@@ -15,7 +15,12 @@
   - rename itemcounter
   - echests times 8
   - stacking like arraylist
-- Texture pack option?? 
+- Texture pack option??
+  - Other type of bones esp
+  - Damage colour
+  - HWD cape (+elytra?)
+  - Splash text "we love miners" +other ones
+  - Basalt pannorama
 - change categories(highway, pvp, essential, stash hunting, etc...)
 - packet mine!!! semi instant? 🥺
 - A module that tells you when a player enters render distance
@@ -30,7 +35,6 @@
 - Minimap that can render in the clickgui (try zero's minimap)
 - Slight blur on the clickgui (+colors)
 - Watermark must be the real logo (size option)
-- "We love miners" splash text and other ones
 - Finish the banners (gihub + mc)
 - Funny DvD logo options (bread, logo, pick, jam)
 - Un-round the clickgui (shit's uggly asf) +give it a border
@@ -39,7 +43,7 @@
 - How does the skin stealer work... add if it's not there
 - make sure new checkbox will render
 - Highways are rendered on the minimap? :0
-- Add the hwd spammer and client chat
+- Add the hwd spammer, kill/death insults and client chat
 <br>
 <br>
 
