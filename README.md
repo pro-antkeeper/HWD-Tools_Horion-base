@@ -1,3 +1,9 @@
+<div align="center">
+    <a href="https://discord.com/invite/kxEZZBfVBD"><img width="1000px" height="auto" src="HWD Tools/Assets/HorionBanner.png"></a>
+</div>
+
+---
+
 # HWD Tools <a href="https://discord.com/invite/kxEZZBfVBD"><img align="right" src="HWD Tools/Assets/Logo.png" height="80px" /></a>
 
 ## To Do List
