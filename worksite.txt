@@ -8,12 +8,13 @@ else if (mode == 0) {                            // hwd colors
 			SettingColor = MC_Color(0, 127, 132);  //y
 			sliderColor = MC_Color(28, 107, 201);
 		}else if (mode == 1) {                            // e chest
-			moduleColor = MC_Color(0, 87, 92);            // background 
-			selectedModuleColor = MC_Color(195, 0, 0);   
-			enabledModuleColor = moduleColor.lerp(207, 0, 0, 0.04f); 
-			brightModuleBlendColor = MC_Color(207, 0, 0);  // tooltip border & category divider 
-			crossColor = MC_Color(207, 0, 0); 
-			selectedSettingColor = MC_Color(195, 0, 0); 
-			SettingColor = MC_Color(0, 127, 132); 
+			moduleColor = MC_Color(0, 90, 0);            // background 
+			selectedModuleColor = MC_Color(0, 140, 0);   
+			enabledModuleColor = moduleColor.lerp(0, 140, 0, 0.04f); 
+			brightModuleBlendColor = MC_Color(0, 140, 0);  // tooltip border & category divider 
+			crossColor = MC_Color(0, 140, 0); 
+			selectedSettingColor = MC_Color(0, 140, 0); 
+			SettingColor = MC_Color(0, 120, 0); 
 			sliderColor = MC_Color(28, 107, 201);
 		}
+//needa test this shit
