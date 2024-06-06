@@ -1,10 +1,10 @@
 else if (mode == 0) {                            // hwd colors
-			moduleColor = MC_Color(13, 29, 48);            // background
-			selectedModuleColor = MC_Color(30, 110, 200);  // 30, 110, 200
-			enabledModuleColor = moduleColor.lerp(whiteColor, 0.04f);
-			brightModuleBlendColor = whiteColor;  // tooltip border & category divider
-			crossColor = whiteColor;
-			selectedSettingColor = MC_Color(20, 100, 195);
-			SettingColor = MC_Color(10, 25, 45);
+			moduleColor = MC_Color(0, 87, 92);            // background //y
+			selectedModuleColor = MC_Color(195, 0, 0);   //y
+			enabledModuleColor = moduleColor.lerp(207, 0, 0, 0.04f); //y
+			brightModuleBlendColor = MC_Color(207, 0, 0);  // tooltip border & category divider //y
+			crossColor = MC_Color(207, 0, 0); //y
+			selectedSettingColor = MC_Color(195, 0, 0); //y
+			SettingColor = MC_Color(0, 127, 132);  //y
 			sliderColor = MC_Color(28, 107, 201);
 		}
