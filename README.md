@@ -84,6 +84,7 @@
 - Yaw lock
 - APvPDisabler
 - Clipboard (with command?) Copies a message to your clipboard, great for sign advertisement
+- Welcome
 
 <br>
 <br>   
