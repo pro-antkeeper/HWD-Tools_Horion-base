@@ -15,7 +15,7 @@
 - Add most modules from kock.club, gs, nuke (+pl), and the first attempt
 - Add a save config button 🧠
 - Make sure the nametags DONT DO END CRYSTALS BRUH (double check)
-- Add a good armor display (in right area + percentage) (nuke)
+- Fix armor display...is it broken because of no armor skin? (in right area + percentage) (nuke)
 - Add a good inventory display (melody)
 - Color options for modules that need it (hud, arraylist)
 - Add my pvpressource module
