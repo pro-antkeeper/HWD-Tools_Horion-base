@@ -37,7 +37,7 @@
 - Slight blur on the clickgui (+colors)
 - Watermark must be the real logo (size option)
 - Finish the banners (gihub + mc)
-- Funny DvD logo options (bread, logo, pick, jam, troll)
+- Funny DvD logo options (bread, logo, pick, jam, troll, maxwell) (remove colour change??)
 - Un-round the clickgui (shit's uggly asf) +give it a border
 - Change default configs (moyangles etc)
 - Make creddits section in moyangles (+clean it up) creddit clients use?
