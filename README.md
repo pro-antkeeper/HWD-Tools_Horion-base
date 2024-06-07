@@ -22,6 +22,8 @@
   - rename itemcounter
   - echests times 8
   - stacking like arraylist
+  - option for if render eech item
+  - all types of obi for the obi one (dif colors?)
 - Texture pack option??
   - Other type of bones esp
   - Damage colour
