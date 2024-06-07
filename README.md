@@ -43,7 +43,15 @@
 - Slight blur on the clickgui (+colors)
 - Watermark must be the real logo (size option)
 - Finish the banners (gihub + mc)
-- Funny DvD logo options (bread, logo, pick, jam, troll, maxwell) (remove colour change??)
+- Funny DvD logo options
+  - size slider
+  - minecraft bread
+  - hwd logo
+  - diamond pick that rotates
+  - jam
+  - trollface?(the players face would be cool)
+  - maxwell
+  - an echest that opens and closes
 - Un-round the clickgui (shit's uggly asf) +give it a border
 - Change default configs (moyangles etc)
 - Make creddits section in moyangles (+clean it up) creddit clients use?
