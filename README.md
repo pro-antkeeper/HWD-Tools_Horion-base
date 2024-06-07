@@ -91,6 +91,8 @@
 - APvPDisabler
 - Clipboard (with command?) Copies a message to your clipboard, great for sign advertisement
 - Welcome
+- Tunnel esp
+- Maybe someday a NewChunks
 
 <br>
 <br>   
