@@ -148,7 +148,7 @@ void pvpResources::onPostRender(C_MinecraftUIRenderContext* renderCtx) {
 		//echests
 			std::string echests = std::to_string(countItem(130));
 		if (std::stoi(echests) > 0) {
-			DrawUtils::drawText(vec2_t(pvpX, pvpY + 40.f * scale), &std::string("E-Chests: " + echests), MC_Color(57, 153, 78), scale);
+			DrawUtils::drawText(vec2_t(pvpX, pvpY + 40.f * scale), &std::string("E-Chests: " + echests + " | x8: " + (echests * 8)), MC_Color(57, 153, 78), scale);
 		}
 	}
 }
