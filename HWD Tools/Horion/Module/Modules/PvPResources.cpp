@@ -15,7 +15,7 @@ pvpResources::~pvpResources() {
 }
 
 const char* pvpResources::getModuleName() {
-	return ("PvPResources");
+	return ("ItemCounter");
 }
 
 float xDif = -1.f;
