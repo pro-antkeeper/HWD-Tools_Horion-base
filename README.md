@@ -58,6 +58,7 @@
 - No rencer chests near spawner option
 - Is it possible to make a block esp that renders blocks that are being broken (other player also)
 - Fix autowalk
+- Ping display to hud 😳
 <br>
 <br>
 
