@@ -51,6 +51,13 @@
 - make sure new checkbox will render
 - Highways are rendered on the minimap? :0
 - Add the hwd spammer, kill/death insults and client chat
+- Add a no sound option to ne weather render?
+- Search for moduele thing?
+- Gui scale option?
+- Fix surround
+- No rencer chests near spawner option
+- Is it possible to make a block esp that renders blocks that are being broken (other player also)
+- Fix autowalk
 <br>
 <br>
 
@@ -93,6 +100,21 @@
 - Welcome
 - Tunnel esp
 - Maybe someday a NewChunks
+- logPositions
+- SafeWalk
+- AutoFarm !! :O
+- Chams?
+- Crosshair+?
+- EnchantColor?
+- HoleMiner (if possible ig)
+- Maybe someday a map/area downloader
+- PopCounter
+- Fast Place
+- LagNotifier 🥇
+- ChatTimestamp (someday)
+- Friend Highight (in chat)
+- AutoReconnect
+- 
 
 <br>
 <br>   
