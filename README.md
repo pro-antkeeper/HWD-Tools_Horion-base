@@ -47,10 +47,11 @@
 - Finish the banners (gihub + mc)
 - Funny DvD logo options
   - size slider
+  - use that thing that find crash reason
   - slider: amount of images in switch
   - minecraft bread
   - hwd logo
-  - diamond pick that rotates
+  - diamond pick 
   - jam
   - trollface?(the players face would be cool)
   - maxwell
