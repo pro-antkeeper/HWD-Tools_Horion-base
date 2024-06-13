@@ -73,6 +73,9 @@
 - Is it possible to make a block esp that renders blocks that are being broken (other player also)
 - Fix autowalk
 - Ping display to hud 😳
+- Add a blur to the clickgui + cool rotating thing ❗
+- Fix the dvdlogo thing
+- Fix nametags
 <br>
 <br>
 
