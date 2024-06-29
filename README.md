@@ -65,6 +65,7 @@
 - targetinfo: smaller, change pos?, notround, fix text size stuff, change range
 - add a switch to autogapple !
 - welcome on home screen :>
+- armor durability to nametags and targetinfo.
 <br>
 <br>
 
