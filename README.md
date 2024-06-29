@@ -66,6 +66,7 @@
 - welcome on home screen :>
 - armor durability to nametags and targetinfo.
 - Add 3dboxfilled
+- add the desync stuff to other modules that need it (crystal aura, killaura, etc)
 <br>
 <br>
 
