@@ -18,6 +18,7 @@
   - stacking like arraylist
   - option for if render eech item?
   - all types of obi for the obi one✔️ (dif colors?)
+  - idk if it counts offhand...
 - Texture pack option??
   - Other type of bones esp + java nonxray-chams
   - Damage colour
