@@ -57,7 +57,12 @@
 - offhand option for nametags
 - how TF do I rotate an image :sob:
 - add tracer to blockESP
-- 
+- death message might not be working
+- friend chat highlight
+- happy paving on welcomer ezzz
+- command + module for auto command (/hub, /kit, etc)
+- targetinfo: smaller, change pos?, notround, fix text size stuff, change range
+- add a switch to autogapple !
 <br>
 <br>
 
@@ -73,26 +78,24 @@
 - Echest Farmer
 - tools tooltips/shulker preview!!! 😭
 - Afk Log (what about a logger that logs when a player get __ blocks close to you...)
-- Excavator
+- Excavator (cool render thing hemuri has lel)
 - Playerlist (online+renderdistance) (horion, nuke)
-- Bedaura 
-- Skel ESP (not horion one)
+- Bedaura (yup pvp client)
+- Skel ESP (not horion one) other esp like wolfcock
 - No Armor (texture pack thing)
-- Timer (gs)
-- Cool swing
-- Yaw lock (get working)
-- APvPDisabler
+- Timer? (gs)
+- Cool swing (borion)
+- APvPDisabler (gs)
 - Clipboard (with command?) Copies a message to your clipboard, great for sign advertisement
-- Welcome
 - Tunnel esp
 - Maybe someday a NewChunks
-- logPositions
-- SafeWalk
-- AutoFarm !! :O
+- logPositions 🤤 with esp
+- SafeWalk (implement)
+- AutoFarm !! :O lmao
 - Chams?
-- Crosshair+?
-- EnchantColor?
-- HoleMiner (if possible ig)
+- Crosshair+? cool triangle thing
+- EnchantColor? meh
+- HoleMiner (if possible ig) (pvp)
 - Maybe someday a map/area downloader
 - PopCounter
 - Fast Place?
