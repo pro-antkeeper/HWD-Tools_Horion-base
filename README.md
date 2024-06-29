@@ -65,6 +65,7 @@
 - add a switch to autogapple !
 - welcome on home screen :>
 - armor durability to nametags and targetinfo.
+- Add 3dboxfilled
 <br>
 <br>
 
