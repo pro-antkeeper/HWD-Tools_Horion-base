@@ -8,63 +8,56 @@
 
 ## To Do List
 - Add a default lunchbox to the github
-- Make the gui look less yukky (color options) fix default loading with that
+- Make the gui look less yukky (color options+opacity) fix default loading with that
 - Rename Horionbanner to HWDbanner?
 - Add most modules from kock.club, gs, nuke (+pl), and the first attempt
 - Add a save config button 🧠
 - Fix armor display(renders armor bruh) (in right area + percentage) (nuke)
 - Add size option inventory display 
 - Add my pvpressource module
-  - rename itemcounter
-  - echests times 8
   - stacking like arraylist
-  - option for if render eech item
-  - all types of obi for the obi one (dif colors?)
+  - option for if render eech item?
+  - all types of obi for the obi one✔️ (dif colors?)
 - Texture pack option??
-  - Other type of bones esp
+  - Other type of bones esp + java nonxray-chams
   - Damage colour
-  - HWD cape (+elytra?)
-  - Splash text (+loading tips?)
-  - Basalt pannorama
-- change categories(highway, pvp, essential, stash hunting, etc...)
-- packet mine!!! semi instant? 🥺
-- A module that tells you when a player enters render distance
-- Pingdisplay would be epic, idk how to do it tho
-- Something that can count the amount of blocks broken and placed in a session 🤑
-- Fix the inv cleaner 
+  - HWD cape (+elytra)
+  - Splash text (+loading tips)
+  - Basalt pannorama 🕶
+- change categories(highway, pvp, almost useless, stash hunting, etc...)
+- packet mine!!! semi instant? 🥺 ❗❗
+- A module that tells you when a player enters render distance (with a sound)
+- Pingdisplay would be epic, idk how to do it tho 🙃
+- Something that can count the amount of blocks broken and placed in a session 🤑(how tho...)
+- Fix the inv cleaner. highay ver
 - Add inventory replenish (obi into all empty slots?)
-- Advertiser: (like spammer but advertises) Make it be able to detect when a player joins the server
-- Effect ToolTips (displays the time remaining on the effects the player has) (ask tofu maybe)
-- Saturation options and opacity options to the ClientTheme module (implement it into Clickgui.cpp)
-- Slight blur on the clickgui (+colors)
+- Advertiser: (like spammer but advertises) Make it be able to detect when a player joins the server(ye hemuri gona have to do this one prolly)
+- Effect ToolTips (displays the time remaining on the effects the player has) (ask tofu maybe) 😋
+- Slight blur on the clickgui (+colors) idk how
 - Funny DvD logo options
-  - size slider
-  - use that thing that find crash reason
+  - size slider (fix window size thing)
   - slider: amount of images in switch
-  - minecraft bread
-  - hwd logo
-  - diamond pick 
-  - jam
-  - trollface?(the players face would be cool)
-  - maxwell
-  - an echest that opens and closes
-  - all obi types (bedrock?)
-  - many shulker boxes at same time (change color)
-- clickgui +give it a border
-- colored checkbox?
+  - minecraft bread, hwd logo, diamond pick, jam, trollface?(the players face would be cool), maxwell and other cats, an echest that opens and closes, all obi types (netherite block?), many shulker boxes at same time option (change color)
+  - FIX CRASH
+- clickgui: give it a border
+- colored checkbox? make the checkboxes always be the same color as the -/+
 - Highways are rendered on the minimap? :0
 - Search for module thing?
 - Fix surround
 - No render chests near spawner option
-- block esp that renders blocks that are being broken (other player also)
+- block esp that renders blocks that are being broken (other player also but dif color)
 - Fix autowalk
 - Ping display to hud 😳
-- Add a blur to the clickgui + cool rotating thing 
-- Fix the dvdlogo thing
-- Fix nametags (dont get big + not round)
+- Add a blur to the clickgui + cool rotating triangles?
+- add border to nametags
+- change color stuff for: esp, tracers, nametags
 - add pair numbers to chonky scaffold
-- fix yaw stuff on highwaytools and yawlock
-- add width options to highwaytools +order the scametics
+- fix yaw stuff on highwaytools and yawlock! causes crash, look at freelook in hooks
+- add width options to highwaytools +order the scametics +remove corner blocks on cardinals
+- offhand option for nametags
+- how TF do I rotate an image :sob:
+- add tracer to blockESP
+- 
 <br>
 <br>
 
@@ -79,7 +72,7 @@
 - TNT Tunneler
 - Echest Farmer
 - tools tooltips/shulker preview!!! 😭
-- Afk Log
+- Afk Log (what about a logger that logs when a player get __ blocks close to you...)
 - Excavator
 - Playerlist (online+renderdistance) (horion, nuke)
 - Bedaura 
