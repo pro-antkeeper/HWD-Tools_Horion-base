@@ -65,8 +65,10 @@
 - add a switch to autogapple !
 - welcome on home screen :>
 - armor durability to nametags and targetinfo.
-- Add 3dboxfilled
 - add the desync stuff to other modules that need it (crystal aura, killaura, etc)
+- fix autogapple
+- health display on nametags (IT POSSIBLE EVEN ON NUKKIT)
+- notifications or nah?
 <br>
 <br>
 
@@ -107,7 +109,8 @@
 - ChatTimestamp (someday)
 - Friend Highight (in chat)
 - AutoReconnect
-- 
+- AutoStairCase 💸🤑
+- Anchore aura at some point 
 
 <br>
 <br>   
