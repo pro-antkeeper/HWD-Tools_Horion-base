@@ -69,6 +69,7 @@
 - fix autogapple
 - health display on nametags (IT POSSIBLE EVEN ON NUKKIT)
 - notifications or nah?
+- FIX the armor display stuff like wtffff 😭
 <br>
 <br>
 
