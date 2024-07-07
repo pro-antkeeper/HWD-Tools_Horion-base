@@ -67,7 +67,7 @@
 - armor durability to nametags and targetinfo.
 - add the desync stuff to other modules that need it (crystal aura, killaura, etc)
 - fix autogapple
-- health display on nametags (IT POSSIBLE EVEN ON NUKKIT)
+- health display and durability on nametags (+offhand)
 - notifications or nah?
 - FIX the armor display stuff like wtffff 😭
 <br>
