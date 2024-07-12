@@ -69,7 +69,10 @@
 - fix autogapple
 - health display and durability on nametags (+offhand)
 - notifications or nah?
-- FIX the armor display stuff like wtffff 😭
+- FIX the armor display stuff like wtffff 😭\
+- try the thing that might work for togglesounds (if work change swing sounds also)
+- InvCleaner: -only Hwy blocks, empty shulks
+- x and z extend for chonky scaffold
 <br>
 <br>
 
