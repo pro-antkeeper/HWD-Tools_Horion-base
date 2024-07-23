@@ -7,18 +7,14 @@
 # HWD Tools <a href="https://discord.com/invite/kxEZZBfVBD"><img align="right" src="HWD Tools/Assets/Logo.png" height="80px" /></a>
 
 ## To Do List
-- Add a default lunchbox to the github
-- Make the gui look less yukky (color options+opacity) fix default loading with that
+- Add a default lunchbox to the github <--
+- Make the gui look less yukky (color options+opacity) fix default loading with that (outline)
 - Rename Horionbanner to HWDbanner?
 - Add most modules from kock.club, gs, nuke (+pl), and the first attempt
 - Add a save config button 🧠
 - Fix armor display(renders armor bruh) (in right area + percentage) (nuke)
-- Add size option inventory display 
-- Add my pvpressource module
-  - stacking like arraylist
-  - option for if render eech item?
-  - all types of obi for the obi one✔️ (dif colors?)
-  - idk if it counts offhand...
+- Add size option inventory display !!
+- pvpressource module: stacking like arraylist, count offhand..., do other item option?
 - Texture pack option??
   - Other type of bones esp + java nonxray-chams
   - Damage colour
@@ -26,20 +22,18 @@
   - Splash text (+loading tips)
   - Basalt pannorama 🕶
 - change categories(highway, pvp, almost useless, stash hunting, etc...)
-- packet mine!!! semi instant? 🥺 ❗❗
-- A module that tells you when a player enters render distance (with a sound)
-- Pingdisplay would be epic, idk how to do it tho 🙃
-- Something that can count the amount of blocks broken and placed in a session 🤑(how tho...)
-- Fix the inv cleaner. highay ver
-- Add inventory replenish (obi into all empty slots?)
-- Advertiser: (like spammer but advertises) Make it be able to detect when a player joins the server(ye hemuri gona have to do this one prolly)
-- Effect ToolTips (displays the time remaining on the effects the player has) (ask tofu maybe) 😋
-- Slight blur on the clickgui (+colors) idk how
+- packet mine!!! semi instant? 🥺 ❗❗ (get that excavator src from hem)
+- A module that tells you when a player enters render distance (with a sound?)
+- Pingdisplay would be epic, idk how to do it tho 🙃 (seperate module?)
+- Add inventory replenish (but nuke version updated!)
+- Advertiser: (like spammer but advertises) Make it be able to detect when a player joins the server(or just add that auto message one lol)
+- Effect ToolTips (displays the time remaining on the effects the player has) (I needa look at that sweet sweet src) 😋
+- Slight blur on the clickgui? or is it good?
 - Funny DvD logo options
   - size slider (fix window size thing)
   - slider: amount of images in switch
   - minecraft bread, hwd logo, diamond pick, jam, trollface?(the players face would be cool), maxwell and other cats, an echest that opens and closes, all obi types (netherite block?), many shulker boxes at same time option (change color)
-  - FIX CRASH
+  - FIX CRASH !!!
 - clickgui: give it a border
 - colored checkbox? make the checkboxes always be the same color as the -/+
 - Highways are rendered on the minimap? :0
@@ -73,6 +67,7 @@
 - try the thing that might work for togglesounds (if work change swing sounds also)
 - InvCleaner: -only Hwy blocks, empty shulks
 - x and z extend for chonky scaffold
+- session info: break counter? players met !!
 <br>
 <br>
 
@@ -83,7 +78,6 @@
   
 ### To add
 - ToggleSounds
-- SessionInfo
 - TNT Tunneler
 - Echest Farmer
 - tools tooltips/shulker preview!!! 😭
